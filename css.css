@@ -1,0 +1,20 @@
+.hoge{
+    padding: 0 0 53% 0;
+    font-size: 150%;
+}
+.kaigyou{  
+    clear: left;
+}
+.box {
+    height: 320px;
+    float: left;
+    margin: 0 0 0 7.5%;
+    width: 35%;
+    padding: 0 0 0 3.75%;
+    font-weight: bold;
+    color: #6091d3;
+    border: solid 8px #6091d3;
+    border-radius: 10%;
+    position: relative;
+    background: #cde4ff;
+}
